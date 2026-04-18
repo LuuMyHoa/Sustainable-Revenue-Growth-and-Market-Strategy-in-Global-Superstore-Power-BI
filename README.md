@@ -201,11 +201,11 @@ This project develops a strategic dashboard to analyze current performance and s
 - EU: lowest orders in core (1,538) but highest return rate (6.5%)
 - APAC: highest orders (1,885) but lowest return rate in core(5.04%)
 
-### 🎯 Market Strategy (Action Plan)
+### ➡️ Market Strategy and Next Actions
 
-👉 The following **next actions** aim to drive revenue growth by optimizing product mix and reviewing underperforming countries, with a priority on scaling core markets
+The following next actions aim to drive revenue growth by optimizing product mix and reviewing underperforming countries, with a priority on scaling core markets
 
-| Market | Strategy | Next actions |
+| Market | Strategy | Next Actions |
 |--------|----------|--------------|
 | EU | DOMINATE | Scale high-margin products; optimize product mix; reduce returns; review underperforming countries |
 | US | RE-IGNITE | Shift away from low-margin Furniture; scale high-margin products; increase AOV through bundling and upsell |
