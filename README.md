@@ -109,66 +109,62 @@ This project develops a strategic dashboard to analyze current performance and s
 #### I. Overview
 ![dashboard_page1](PICTURE/dashboard_page1.png)
 
-📌 Key Insights:   
+📌 Key Findings:   
 
 1. Business Performance in 2014
 - Revenue reached $4.30M, a significant increase of +26.3% YoY. Strong revenue growth.
 - Profit increased +23.9% YoY to $504K. Profit growth is slower than revenue growth, indicating declining efficiency.
-- Orders increased +26.9%. Growth is primarily driven by order volume rather than value per order (AOV slightly declining)
-- Profit in decreased by -1.87% YoY. This is a sign of margin pressure during revenue growth.
-- Return Rate has improved with a decrease of -3.6% YoY, but at 4.55%, it remains high and requires attention.
-
-2. Yearly Trends of Revenue, Profit, and Margin
+- Orders increased +26.9%. Growth is volume-driven not value-driven (AOV slightly declined)
+- Profit margin decreased by -1.87% YoY. This shows that margin pressure during revenue growth.
+- Return rate decreased by -3.6% YoY, but remains high at 4.55% and needs attention.
+  
+2. Long-Term Trend (2011–2014)
 - Revenue grew steadily from $2.3M (2011) to $4.3M (2014)
 - Profit followed a similar trend (from $0.2M to $0.5M)
-- Profit Margin remained relatively stable (~11–12%) over the years 
-- Margin declined to 11.73% in 2014 after a steady upward trend in previous years
+- Margin remains relatively stable (~11–12%) but drops in 2014
   
-&nbsp; **Insight**:  Growth is consistent over time, and margin is low,→ structural growth. The decline in 2014 is a warning signal -> Strategy in 2015: Grow revenue while improving margin quality
+&nbsp; **Insight**:  The business has a stable growth foundation, but margin decline signals early inefficiency -> improve margin quality while scaling revenue.
 
-3. Monthly Trends in 2014
+3. Seasonality (Monthly 2014)
 - Revenue was highest in November ($0.56M) and lowest in February ($0.18M)
 - YoY Revenue positive in all months (~+10-48%)
-- Profit and Orders trends are quite similar to the revenue
-- Margin showed a different trend: peaked early in the year (March ~14.2%) but decreased during the Q4 high-growth period. 
-- Return rate highest (5.71%) in  February (the month with the lowest revenue, profit, and orders). 
+- Margin peaked early (March ~14.2%) but decreased during the high-growth Q4 period. 
+- Return rate was highest (5.71%) in  February (the month with the lowest revenue, profit, and orders). 
 
- &nbsp; **Insight**: Business is seasonal-driven, Q4 drives revenue but reduces margin → Need careful campaign planning in Q4
+ &nbsp; **Insight**: Business is seasonal, with Q4 driving revenue but lowering margin → requires careful promotion control in Q4.
 
 4. Geographic Profitability
 - Global presence in 138 countries, but 30 countries are reporting losses.
-- Losses are concentrated in EMEA and LATAM, accounting for nearly half of all loss-making countries and more than 50% of total losses
+- Losses are concentrated in EMEA and LATAM, contributing nearly half of loss countries and over 50% of total losses
   
-&nbsp; **Insight**: Expansion is aggressive but lacks profitability control
+&nbsp; **Insight**: Expansion is wide but not efficient → need stronger control on market profitability.
 
 5. Market in Revenue, Revenue Growth, and Profit Margin
-- There are 7 markets with varying revenue contributions.
 - EMEA has the highest revenue growth (+47.4%) but the lowest margin (7.49%)
-- Canada has the smallest revenue ($0.02M) but the highest margin (25.88%)
 - APAC has the highest revenue ($1.21M) but below-average margin (11.62%)
+- Canada has the smallest revenue ($0.02M) but the highest margin (25.88%)
 - EU is the most stable ($1.04M Revenue, 12.37% Margin)
 
-&nbsp; **Insight**: The performance in every market is very different -> Each market requires different strategic action.
+&nbsp; **Insight**: Market performance varies significantly -> requires tailored strategies instead of a one-size-fits-all approach
 
 6. Category in Revenue, Revenue Growth, and Profit Margin
-- There are 3 categories
 - Technology has the highest revenue ($1.6M) and the highest margin (14.5%)
-- Furniture has the lowest margin (6.5%)
 - Office Supplies has the highest growth (+29.2%) and a high margin (13.8%)
-
-&nbsp; **Insight**: Growth is driven by high-margin categories (Technology) → should be prioritized. Need to fix underperforming Furniture (especially sub-category level)
+- Furniture has the lowest margin (6.5%)
+  
+&nbsp; **Insight**: Growth is driven by high-margin categories (Technology, Office Supplies), while Furniture reduces overall profitability.
 
 #### II. Market Analysis
 ![dashboard_page2](PICTURE/dashboard_page2.png)
 
-📌 Key Insights:   
+📌 Key Findings:   
 1. Revenue distribution by Market
 - Based on Pareto analysis, categorizing markets into two groups: 4 Core (APAC, EU, US, LATAM) and 3 Small (EMEA, Africa, Canada)
-- Core markets contribute 85.9% total revenue
+- Core markets contribute 85.9% of total revenue
   
-&nbsp; **Insight**: Growth strategy should focus on scaling core markets, not small ones
+&nbsp; **Insight**: Growth strategy should prioritize core markets where most revenue is generated
 
-2. Growth-Profitability Matrix
+2. Growth vs Profitability Matrix
 - Apply the matrix for 2 groups: core and small market
 - Markets are segmented into 8 strategic groups based on Market Tier, Revenue Growth, and Profit Margin (2×2×2 framework)
 
@@ -188,24 +184,26 @@ This project develops a strategic dashboard to analyze current performance and s
 </details>
 
 3. Top growth or bottom margin countries
-- Top 1 growth revenue is Quata with +18,000% (margin 22.6%). A stunning and surprising number. Top 6 growth revenue is over 1,800%
+- Top 1 growth revenue is Qatar with +18,000% (margin 22.6%). A stunning and surprising number. Top 6 growth revenue is over 1,800%
 - 6 Countries have a bottom Margin (<-150%). These extreme values require validation by combining revenue scale and loss to assess real impact
 
-&nbsp; **Insight**: Identify outperformers to understand their growth levers. Simultaneously, analyze loss-making or low-margin countries to develop turnaround plans or exit paths
+&nbsp; **Insight**: Identify growth drivers in top performers, while reviewing loss-making countries for turnaround or exit decisions
 
 4. Profit Margin by Market and Category
 - Canada has the highest margin in both 3 Categories (>20%).
-- Most markets achieve the highest margin in Technology and the lowest in Furniture
+- Most markets have highest margin in Technology and lowest in Furniture
 - EMEA has a low margin in all 3 categories, the highest in Technology with only 11% (< Avg overall 11.73%)
 
-&nbsp; **Insight**: Identify the top-performing categories within each market to scale up. For EMEA, a review is required to address ongoing issues. 
+&nbsp; **Insight**: Identify the top-performing categories within each market to scale up. EMEA requires further review due to consistently low margins
 
 5. Return rate by market
-- Core markets: high return rate and small markets: 0%
+- Core markets show higher return rates, while small markets report 0%
 - EU: lowest orders in core (1,538) but highest return rate (6.5%)
-- APAC: highest orders (1,885) but lowest return rate (5.04%)
+- APAC: highest orders (1,885) but lowest return rate in core(5.04%)
 
-👉 The following **next actions** aim to drive revenue growth by optimizing product mix and reviewing underperforming countries, with a focus on scaling core markets and selectively managing smaller markets.
+### 🎯 Market Strategy (Action Plan)
+
+👉 The following **next actions** aim to drive revenue growth by optimizing product mix and reviewing underperforming countries, with a priority on scaling core markets
 
 | Market | Strategy | Next actions |
 |--------|----------|--------------|
@@ -217,38 +215,36 @@ This project develops a strategic dashboard to analyze current performance and s
 | Africa | MAINTAIN | Maintain efficient operations; selectively expand high-margin products |
 | Canada | MAINTAIN | Maintain niche positioning; focus on profitability |
 
-These actions aim to balance short-term performance improvement with long-term scalable growth, ensuring resources are allocated to the most impactful opportunities.
-
 #### III. Product Analysis
 ![dashboard_page3](PICTURE/dashboard_page3.png)
 
-📌 Key Insights:   
+📌 Key Findings:   
 1. Pareto Analysis
-- 8 sub-categories drive 80% revenue → need focus
-- Technology dominates the core group
+- 8 sub-categories drive 80% of revenue 
+- 4/4 sub-categories of Technology in this group
 
 2. Tables Crisis
-- Only sub-category with loss (-$30.55K in 2014)
+- The only loss-making sub-category (-$30.55K in 2014)
 - Margin -12.5% → main reason dragging Furniture
 - High return rate (6.32%)
 - Losses over 4 years (total > $60K)
-- Losses in 5/7 markets -> no clear product-market fit
+- Losses in 5/7 markets -> indicates poor product-market fit
 
-&nbsp; **Insight**: Tables is a big problem -> Increase price or remove
+&nbsp; **Insight**: Tables is a big problem -> requires pricing review or remove
 
 3. BCG Matrix 
 - Stars: Phones, Copiers (High Revenue, High Margin)
 - Question Mark: Paper, Arts (Low Revenue, High Margin)
-- Cash Cows: Accessories, Storage (High Revenue,  Margin)
+- Cash Cows: Accessories, Storage (High Revenue, Low Margin)
 - Dogs: Tables, Binders, Supplies (Low Revenue, Low Margin)
 
-Product strategy should prioritize Stars, optimize Cash Cows, fix/remove Dogs. 
+Product strategy should prioritize Stars, optimize Cash Cows, and fix or remove Dogs
 
 4. Sub-Category x Market and Top 10 Products
-- Identify product-market fit by analyzing which products perform best in each market
+- Identify product-market fit by evaluating top-performing products in each market
 - Top 10 products by revenue, quantity, ASP, return rate
 
-&nbsp; **Insight**: Optimize product mix, cross-sell, upsell
+&nbsp; **Insight**: Optimize product mix, apply cross-sell and upsell strategies
 
 
 ## 🔎 Final Conclusion & Recommendations 
