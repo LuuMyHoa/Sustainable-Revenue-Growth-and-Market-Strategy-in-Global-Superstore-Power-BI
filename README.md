@@ -13,11 +13,11 @@
 
 ### What is this project about? 
 
-🔥 Superstore is a global business with many markets. The company is growing fast and focuses on revenue growth and market expansion.
+🔥 Superstore is a global business with many markets. The business is experiencing strong revenue growth across global markets. However, early signals show declining profit efficiency and inconsistent performance across markets and products.
 
 This project develops a strategic dashboard to analyze current performance and support decision-making for the upcoming year.
 
-🎯 The goal is to answer three key questions:
+🎯 This dashboard is designed to answer three critical business questions:
 
 - What is the current performance of Superstore?
 
@@ -113,7 +113,7 @@ This project develops a strategic dashboard to analyze current performance and s
 
 1. Business Performance in 2014
 - Revenue reached $4.30M, a significant increase of +26.3% YoY. Strong revenue growth.
-- Profit increased +23.9% YoY to $504K. Profit growth is slower than revenue growth, indicating declining efficiency.
+- Profit increased +23.9% YoY to $504K. Profit is growing slower than revenue, indicating declining efficiency.
 - Orders increased +26.9%. Growth is volume-driven not value-driven (AOV slightly declined)
 - Profit margin decreased by -1.87% YoY. This shows that margin pressure during revenue growth.
 - Return rate decreased by -3.6% YoY, but remains high at 4.55% and needs attention.
@@ -123,7 +123,7 @@ This project develops a strategic dashboard to analyze current performance and s
 - Profit followed a similar trend (from $0.2M to $0.5M)
 - Margin remains relatively stable (~11–12%) but drops in 2014
   
-&nbsp; **Insight**:  The business has a stable growth foundation, but margin decline signals early inefficiency -> improve margin quality while scaling revenue.
+&nbsp; **Insight**:  The business has a stable growth foundation, but margin decline signals early inefficiency -> future growth must balance volume expansion with margin control
 
 3. Seasonality (Monthly 2014)
 - Revenue was highest in November ($0.56M) and lowest in February ($0.18M)
@@ -145,7 +145,7 @@ This project develops a strategic dashboard to analyze current performance and s
 - Canada has the smallest revenue ($0.02M) but the highest margin (25.88%)
 - EU is the most stable ($1.04M Revenue, 12.37% Margin)
 
-&nbsp; **Insight**: Market performance varies significantly -> requires tailored strategies instead of a one-size-fits-all approach
+&nbsp; **Insight**: Performance gaps across markets are significant → a standardized strategy is ineffective
 
 6. Category in Revenue, Revenue Growth, and Profit Margin
 - Technology has the highest revenue ($1.6M) and the highest margin (14.5%)
@@ -166,7 +166,7 @@ This project develops a strategic dashboard to analyze current performance and s
 
 2. Growth vs Profitability Matrix
 - Apply the matrix for 2 groups: core and small market
-- Markets are segmented into 8 strategic groups based on Market Tier, Revenue Growth, and Profit Margin (2×2×2 framework)
+- Markets are segmented into 8 actionable strategic groups based on Market Tier, Revenue Growth, and Profit Margin (2×2×2 framework)
 
 <details>
 <summary>Proposed Framework</summary>
@@ -183,11 +183,16 @@ This project develops a strategic dashboard to analyze current performance and s
 |Small|Low|Low|MONITOR|
 </details>
 
-3. Top growth or bottom margin countries
-- Top 1 growth revenue is Qatar with +18,000% (margin 22.6%). A stunning and surprising number. Top 6 growth revenue is over 1,800%
-- 6 Countries have a bottom Margin (<-150%). These extreme values require validation by combining revenue scale and loss to assess real impact
+2. Return rate by market
+- Core markets show higher return rates, while small markets report 0%
+- EU: lowest orders in core (1,538) but highest return rate (6.5%)
+- APAC: highest orders (1,885) but lowest return rate in core(5.04%)
 
-&nbsp; **Insight**: Identify growth drivers in top performers, while reviewing loss-making countries for turnaround or exit decisions
+3. Top growth or top loss countries
+- Top 1 growth: Qatar (+18,000% revenue, margin 22.6%) — an unusually high surge. Notably, the 6th highest growth still exceeds +1,800%
+- Top 1 loss: -$30.5K profit on $33.6K revenue (margin -90.7%). The top 6 loss-making countries contribute over 60% of total losses
+
+&nbsp; **Insight**: Extreme growth is likely non-sustainable or driven by a low base → requires careful validation. For loss-making countries, prioritize fixing or exiting these countries.
 
 4. Profit Margin by Market and Category
 - Canada has the highest margin in both 3 Categories (>20%).
@@ -195,11 +200,6 @@ This project develops a strategic dashboard to analyze current performance and s
 - EMEA has a low margin in all 3 categories, the highest in Technology with only 11% (< Avg overall 11.73%)
 
 &nbsp; **Insight**: Identify the top-performing categories within each market to scale up. EMEA requires further review due to consistently low margins
-
-5. Return rate by market
-- Core markets show higher return rates, while small markets report 0%
-- EU: lowest orders in core (1,538) but highest return rate (6.5%)
-- APAC: highest orders (1,885) but lowest return rate in core(5.04%)
 
 ### ➡️ Market Strategy and Next Actions
 
@@ -219,6 +219,7 @@ The following next actions aim to drive revenue growth by optimizing product mix
 ![dashboard_page3](PICTURE/dashboard_page3.png)
 
 📌 Key Findings:   
+
 1. Pareto Analysis
 - 8 sub-categories drive 80% of revenue 
 - 4/4 sub-categories of Technology in this group
@@ -230,7 +231,7 @@ The following next actions aim to drive revenue growth by optimizing product mix
 - Losses over 4 years (total > $60K)
 - Losses in 5/7 markets -> indicates poor product-market fit
 
-&nbsp; **Insight**: Tables is a big problem -> requires pricing review or remove
+&nbsp; **Insight**: Tables is a big problem -> requires urgent action: pricing reset, cost review, or remove
 
 3. BCG Matrix 
 - Stars: Phones, Copiers (High Revenue, High Margin)
@@ -238,7 +239,7 @@ The following next actions aim to drive revenue growth by optimizing product mix
 - Cash Cows: Accessories, Storage (High Revenue, Low Margin)
 - Dogs: Tables, Binders, Supplies (Low Revenue, Low Margin)
 
-Product strategy should prioritize Stars, optimize Cash Cows, and fix or remove Dogs
+&nbsp; **Insight**: Growth should be driven by scaling Stars, improving the margin of Cash Cows, and fixing or removing Dogs
 
 4. Sub-Category x Market and Top 10 Products
 - Identify product-market fit by evaluating top-performing products in each market
@@ -249,23 +250,16 @@ Product strategy should prioritize Stars, optimize Cash Cows, and fix or remove 
 
 ## 🔎 Final Conclusion & Recommendations 
 
-- Revenue is growing strongly (+26% YoY) but profitability is declining
+- Revenue is growing strongly but profitability is declining
 - Growth is concentrated in a few core markets and categories
-- Significant imbalance across markets and products
-- Small markets and low-performing products do not drive meaningful growth
+- Loss countries and low-performing products require fix or exit 
 
 🔥 Final Strategic Statement
 
-“Revenue growth should be driven by scaling core markets and high-performing products, while improving margin quality and managing smaller markets as strategic options rather than primary growth drivers.”
+“Sustainable growth should be driven by scaling high-performing markets and products, while improving margin quality and managing smaller markets as strategic options rather than primary growth drivers.”
 
-🚀 Strategic Priorities
-1. Scale What Works
-- Core markets (EU, US, APAC)
-- High-margin categories (Technology)
-2. Fix Profitability Issues
-- Reduce low-margin products (Furniture, Tables)
-- Improve pricing & discount strategy
-3. Optimize Quality
-- Control risk in loss-making countries/ products
-- Reduce return rate
+🚀 Next actions
 
+| Stop the bleeding (Short-term) | Fix profitability (Mid-term) | Scale what works (Long-term) |
+|---|---|---|
+| - Exit or control loss-making countries (e.g., Turkey, Nigeria)<br>- Take immediate action on Tables (repricing, cost review, or discontinue)<br>- Audit EMEA (low margins across all categories despite high growth) | - Rationalize Dog sub-categories (Tables, Binders, Supplies)<br>- Improve return rates (especially in core markets) to protect margins<br>- Optimize pricing strategy to reduce margin erosion | - Scale core markets with tailored strategies (Dominate, Re-ignite, Restructure)<br>- Scale Star sub-categories (Phones, Copiers, Appliances, Accessories)<br>- Increase AOV (bundling, upselling, and product mix optimization) |
