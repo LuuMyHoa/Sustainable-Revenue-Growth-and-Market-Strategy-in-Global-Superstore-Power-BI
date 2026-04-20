@@ -119,8 +119,7 @@ This project develops a strategic dashboard to analyze current performance and s
 - Return rate decreased by -3.6% YoY, but remains high at 4.55% and needs attention.
   
 2. Long-Term Trend (2011–2014)
-- Revenue grew steadily from $2.3M (2011) to $4.3M (2014)
-- Profit followed a similar trend (from $0.2M to $0.5M)
+- Revenue grew steadily from $2.3M (2011) to $4.3M (2014). Profit followed a similar trend (from $0.2M to $0.5M)
 - Margin remains relatively stable (~11–12%) but drops in 2014
   
 &nbsp; **Insight**:  The business has a stable growth foundation, but margin decline signals early inefficiency -> future growth must balance volume expansion with margin control
@@ -159,8 +158,8 @@ This project develops a strategic dashboard to analyze current performance and s
 
 📌 Key Findings:   
 1. Revenue distribution by Market
-- Based on Pareto analysis, categorizing markets into two groups: 4 Core (APAC, EU, US, LATAM) and 3 Small (EMEA, Africa, Canada)
-- Core markets contribute 85.9% of total revenue
+- Based on Pareto analysis, categorizing markets into two groups: Core (APAC, EU, US, LATAM) and Small (EMEA, Africa, Canada)
+- 4 Core markets contribute 85.9% of total revenue
   
 &nbsp; **Insight**: Growth strategy should prioritize core markets where most revenue is generated
 
@@ -254,12 +253,12 @@ The following next actions aim to drive revenue growth by optimizing product mix
 - Growth is concentrated in a few core markets and categories
 - Loss countries and low-performing products require fix or exit 
 
-🔥 Final Strategic Statement
+### 🔥 Final Strategic Statement
 
 “Sustainable growth should be driven by scaling high-performing markets and products, while improving margin quality and managing smaller markets as strategic options rather than primary growth drivers.”
 
-🚀 Next actions
+### 🚀 Next actions
 
 | Stop the bleeding (Short-term) | Fix profitability (Mid-term) | Scale what works (Long-term) |
 |---|---|---|
-| - Exit or control loss-making countries (e.g., Turkey, Nigeria)<br>- Take immediate action on Tables (repricing, cost review, or discontinue)<br>- Audit EMEA (low margins across all categories despite high growth) | - Rationalize Dog sub-categories (Tables, Binders, Supplies)<br>- Improve return rates (especially in core markets) to protect margins<br>- Optimize pricing strategy to reduce margin erosion | - Scale core markets with tailored strategies (Dominate, Re-ignite, Restructure)<br>- Scale Star sub-categories (Phones, Copiers, Appliances, Accessories)<br>- Increase AOV (bundling, upselling, and product mix optimization) |
+| - Exit or control loss-making countries (e.g., Turkey, Nigeria)<br>- Take immediate action on Tables (repricing, cost review, or discontinue)<br>- Audit EMEA (low margins across all categories despite high growth) | - Rationalize Dog sub-categories (Tables, Binders, Supplies)<br>- Improve return rates (especially in core markets) to protect margins<br>- Optimize pricing strategy to reduce margin erosion | - Scale core markets with tailored strategies (Dominate, Re-ignite, Restructure)<br>- Scale Star sub-categories (Phones, Copiers, Appliances, Accessories)<br>- Increase AOV (bundling, upselling, product mix optimization) |
