@@ -43,7 +43,7 @@ This project develops a strategic dashboard to analyze current performance and s
 - The dataset consists of three tables: Orders, Returns, and People
   
 <details>
-  <summary>Table 1: Orders</summary>
+  <summary>Table Orders: Contains detailed transaction data on customers, products, sales, and profit </summary>
   
 | Column Name | Data Type | Description |
 |---|---|---|
@@ -70,7 +70,7 @@ This project develops a strategic dashboard to analyze current performance and s
 </details>
 
 <details>
-  <summary> Table 2: Returns</summary>
+  <summary> Table Returns: Stores data on returned orders.</summary>
   
 | Column Name | Data Type | Description |
 |---|---|---|
@@ -80,7 +80,7 @@ This project develops a strategic dashboard to analyze current performance and s
 </details>
 
 <details>
-  <summary> Table 3: People</summary>
+  <summary> Table People: Holds information about sales representatives by region</summary>
   
 | Column Name | Data Type | Description |
 |---|---|---|
@@ -100,7 +100,6 @@ This project develops a strategic dashboard to analyze current performance and s
 ![Design Thinking](PICTURE/thinking_1.png)
 ![Design Thinking](PICTURE/thinking_2.png)
 ![Design Thinking](PICTURE/thinking_3.png)
-
 ## 💡 Key Insights & Visualizations  
 
 #### I. Overview
